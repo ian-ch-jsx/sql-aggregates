@@ -15,4 +15,4 @@ INNER JOIN
 ON
 	payment.rental_id = rental.rental_id
 GROUP BY
-	email;
+	email
